@@ -1,4 +1,4 @@
-let g:Powerline#Themes#default#theme = Pl#Theme#Create(
+let g:Powerline#Themes#codefun#theme = Pl#Theme#Create(
 	\ Pl#Theme#Buffer(''
 		\ , 'paste_indicator'
     \ , 'bufno:paste_indicator'
